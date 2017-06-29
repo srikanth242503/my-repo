@@ -27,12 +27,12 @@
     <snapshotRepository>
         <id>rnstech</id>
         <name>Internal Snapshots</name>
-        <url>http://localhost:8080/nexus-2.11.4-01/content/repositories/snapshots/</url>
-    </snapshotRepository>
+        <url>http://localhost:8080/nexus-2.11.4-01/content/repositories/snapshot</url>
+        </snapshotRepository>
     <repository>
         <id>rnstech</id>
         <name>Internal Releases</name>
-        <url>http://localhost:8080/nexus-2.11.4-01/content/repositories/releases/</url>
-    </repository>
+        <url>http://localhost:8080/nexus-2.11.4-01/content/repositories/releases</url>
+        </repository>
 </distributionManagement>
 </project>
