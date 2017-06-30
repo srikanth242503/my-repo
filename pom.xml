@@ -4,7 +4,7 @@
 
   <groupId>org.ap.com</groupId>
   <artifactId>mvnapp</artifactId>
-  <version>1.9</version>
+  <version>1.11</version>
   <packaging>jar</packaging>
 
   <name>mvnapp</name>
